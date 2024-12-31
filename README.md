@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sanjay! 👋
 
-<!--
-**SanjaayM7/SanjaayM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student, Data analyst, machine learning enthusiast, and networking.
 
-Here are some ideas to get you started:
+Passionate about solving problems with data and building intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- Intern @SkillCraft
+- Design Lead @Chipset
+
+## Technologies & Tools
+
+- HTML, CSS, JavaScript, Python
+- React
+- Git, MySQL, Supabase
+
+## Currently Learning
+
+- AI/ML
+- UI/UX Design
+
+## Contact
+
+- Email: san77m@outlook.com
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjaayM7&show_icons=true&theme=radical)
