@@ -1,6 +1,6 @@
 # Hi, I'm Sanjay! 👋
 
-![Welcome Banner](https://github.com/SanjaayM7/SanjaayM7/blob/697b2520abae0875441442b788a5f5d9d249c50b/UserBanner.png)
+![Welcome Banner](https://github.com/SanjaayM7/SanjaayM7/blob/d4d1f7746741a878756eb91f35bf70337755bc70/Readme%20Banner.png)
 
 I’m a **Student**, **Data Analyst**, and **Machine Learning Enthusiast** with a keen interest in **Networking**. My passion lies in leveraging **data** to solve real-world challenges and building **intelligent systems** that simplify or improve life in meaningful ways.
 
