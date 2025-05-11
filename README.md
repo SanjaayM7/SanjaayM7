@@ -4,29 +4,14 @@
 
 I’m a **Student**, **Data Analyst**, and **Machine Learning Enthusiast** with a keen interest in **Networking**. My passion lies in leveraging **data** to solve real-world challenges and building **intelligent systems** that simplify or improve life in meaningful ways.
 
-💡 I’m driven by curiosity, always eager to learn, and enjoy collaborating with like-minded individuals who are passionate about **technology**, **open-source**, and making a **positive impact**.
-
----
+I’m curious, love learning new things, and enjoy working with people who are passionate about technology, open-source, and making a difference.
 
 ## 🌟 What I Do
 
-- **Data Analysis**: Transforming raw data into actionable insights.
-- **Machine Learning**: Designing smart systems to solve real-world problems.
-- **Networking Enthusiast**: Exploring and understanding the power of connections.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Programming**: Python, R, SQL
-- **Data Visualization**: Tableau, Power BI, Matplotlib
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Others**: Git, Linux, Excel, Networking Fundamentals
-
----
+**Data Analysis**, **Machine Learning**, **UI/UX Design**, **Web Development**, **Networking Enthusiast**
 
 ## 🌐 Let's Connect!
 
-Blogs on [**Medium**](https://medium.com/@sanjay77mr) & Career Updates [**LinkedIn**](https://www.linkedin.com/in/sanjaym7/).
+Explore my blogs on [**Medium**](https://medium.com/@sanjay77mr) and stay updated with my professional journey on [**LinkedIn**](https://www.linkedin.com/in/sanjaym7/).
 
 ---
