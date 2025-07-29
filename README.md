@@ -10,8 +10,4 @@ I’m curious, love learning new things, and enjoy working with people who are p
 
 **Data Analysis**, **Machine Learning**, **UI/UX Design**, **Web Development**, **Networking Enthusiast**
 
-## 🌐 Let's Connect!
-
-Explore my blogs on [**Medium**](https://medium.com/@sanjay77mr) and stay updated with my professional journey on [**LinkedIn**](https://www.linkedin.com/in/sanjaym7/).
-
 ---
