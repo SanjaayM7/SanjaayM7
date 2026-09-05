@@ -6,6 +6,6 @@ I’m curious, love learning new things, and enjoy working with people who are p
 
 ## 🌟 What I Do
 
-**Data Analysis**, **Machine Learning**, **UI/UX Design**, **Web Development**, **Automations**
+**Data Analysis**, **Machine Learning**, **Automations**
 
 ---
