@@ -15,17 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
-- Student passionate about Artificial Intelligence and Machine Learning.
-- Exploring Transformer architectures, LLMs, and agentic AI systems.
-- Developing research-oriented solutions in computer vision and deep learning.
-- Building intelligent RAG pipelines and autonomous research assistants.
-- Interested in data analytics, intelligent automation, and practical AI applications.
-- Combining technical problem-solving with a strong foundation in graphic design.
-
----
-
 ## 🏆 Projects
 
 **Adaptive Gated Fusion — WaterSeg** 
