@@ -34,5 +34,12 @@ An agentic AI research assistant designed to support research workflows through 
 
 ---
 
-<script type="module" src="https://ascii.rest/ascii.js"></script>
-<ascii-art piece="donut"></ascii-art>
+---
+
+<p align="center">
+  <img src="./ascii-rest-alpine-dawn.gif" alt="Alpine Dawn ASCII landscape animation" width="100%" />
+</p>
+
+<p align="center">
+  <i>Building intelligent systems. Exploring beyond the horizon.</i>
+</p>
