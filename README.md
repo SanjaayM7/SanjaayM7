@@ -24,14 +24,6 @@ An end-to-end deep learning project exploring Transformer-based architectures fo
 
 `Python` `Transformers` `Deep Learning` `Computer Vision` `NLP` `Image Captioning` `Research`
 
-**Agentic RAG Research Assistant**
-
-(AI Agent · Retrieval-Augmented Generation)
-
-An agentic AI research assistant designed to support research workflows through retrieval-augmented generation. Focuses on combining knowledge retrieval with LLM-powered reasoning to make research and information discovery more intelligent.
-
-`Python` `LLMs` `Agentic AI` `RAG` `Vector Search` `NLP` `AI Agents`
-
 ---
 
 <p align="center">
