@@ -1,17 +1,8 @@
-<h1 align="center">Hi, I'm Sanjay</h1>
+# Hi, I'm Sanjay 👋
 
-<p align="center">
-  <strong>Student | AI/ML Developer | Research Enthusiast</strong>
-</p>
+**AI/ML Developer | Research Enthusiast**
 
-<p align="center">
-  Student and AI/ML Developer specializing in Transformer architectures, Large Language Models (LLMs), and autonomous agents. I bridge robust data analytics and intelligent automation with a strong foundation in graphic design.
-</p>
-
-<p align="center">
-  <a href="https://github.com/SanjaayM7">GitHub</a> |
-  <a href="mailto:sanjay77mr@gmail.com">Email</a>
-</p>
+Specializing in Transformer architectures, Large Language Models (LLMs), and autonomous agents. I focus on robust data analytics, intelligent automation, and research-driven AI solutions.
 
 ---
 
@@ -43,15 +34,5 @@ An agentic AI research assistant designed to support research workflows through 
 
 ---
 
-## ⚡ Currently Exploring
-
-- Advanced Transformer architectures and multimodal AI.
-- Agentic RAG systems and autonomous research workflows.
-- Practical applications of LLMs and intelligent automation.
-- Research-driven development of AI/ML solutions.
-
----
-
-<p align="center">
-  Building intelligent systems at the intersection of research, engineering, and creativity.
-</p>
+<script type="module" src="https://ascii.rest/ascii.js"></script>
+<ascii-art piece="donut"></ascii-art>
