@@ -34,10 +34,8 @@ An agentic AI research assistant designed to support research workflows through 
 
 ---
 
----
-
 <p align="center">
-  <img src="./ascii-rest-alpine-dawn.gif" alt="Alpine Dawn ASCII landscape animation" width="60%" />
+  <img src="./ascii-rest-alpine-dawn.gif" alt="Alpine Dawn ASCII landscape animation" width="80%" />
 </p>
 
 <p align="center">
