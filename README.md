@@ -1,9 +1,3 @@
-# Hi, I'm Sanjay 👋
-
-**AI/ML Developer | Research Enthusiast**
-
-Specializing in Transformer architectures, Large Language Models (LLMs), and autonomous agents. I focus on robust data analytics, intelligent automation, and research-driven AI solutions.
-
 ## 🏆 Projects
 
 **Adaptive Gated Fusion — WaterSeg** 
