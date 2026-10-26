@@ -1,4 +1,4 @@
-## 🏆 Projects
+## 🏆 Research Papers
 
 **Adaptive Gated Fusion — WaterSeg** 
 
@@ -17,10 +17,6 @@ An end-to-end deep learning project exploring Transformer-based architectures fo
 `Python` `Transformers` `Deep Learning` `Computer Vision` `NLP` `Image Captioning` `Research`
 
 ---
-
-<p align="center">
-  <img src="./ascii-rest-alpine-dawn.gif" alt="Alpine Dawn ASCII landscape animation" width="80%" />
-</p>
 
 <p align="center">
   <i>Building intelligent systems. Exploring beyond the horizon.</i>
