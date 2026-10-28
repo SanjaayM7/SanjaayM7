@@ -19,5 +19,5 @@ An end-to-end deep learning project exploring Transformer-based architectures fo
 ---
 
 <p align="center">
-  <i>Building intelligent systems. Exploring beyond the horizon.</i>
+  Building intelligent systems. Exploring beyond the horizon.
 </p>
